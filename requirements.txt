@@ -1,0 +1,5 @@
+# WMI 弱口令测试工具 - Python 依赖
+# 推荐 Python 3.8 ~ 3.11（Impacket 对 3.12+ 兼容性需确认）
+# 安装命令：pip install -r requirements.txt
+
+impacket>=0.10.0
